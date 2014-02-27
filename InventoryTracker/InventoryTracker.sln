@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryTracker", "InventoryTracker\InventoryTracker.csproj", "{52014021-06CC-408A-AD55-EBB7CEA2001D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52014021-06CC-408A-AD55-EBB7CEA2001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52014021-06CC-408A-AD55-EBB7CEA2001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52014021-06CC-408A-AD55-EBB7CEA2001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52014021-06CC-408A-AD55-EBB7CEA2001D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
