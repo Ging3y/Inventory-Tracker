@@ -12,10 +12,12 @@ namespace Inventory
 {
     public partial class MainPage : Form
     {
+        //Uh...
+        #region Global Vairables
+        //What do I put here?
+        #endregion
         public MainPage()
         {
-         
-
             InitializeComponent();
         }
 
@@ -31,10 +33,11 @@ namespace Inventory
             FinanceForm.Show();
         }
 
-      
-
-       
-
+        private void Button_inventory_Click(object sender, EventArgs e)
+        {
+            Pages.Inventory InventoryForm = new Pages.Inventory();
+            InventoryForm.Show();
+        }
         
     }
 }

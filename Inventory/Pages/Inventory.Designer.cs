@@ -1,6 +1,6 @@
 ﻿namespace Inventory.Pages
 {
-    partial class Finance
+    partial class Inventory
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Finance
+            // Inventory
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(618, 424);
-            this.Name = "Finance";
-            this.Text = "Finance";
+            this.Name = "Inventory";
+            this.Text = "Inventory";
             this.ResumeLayout(false);
 
         }

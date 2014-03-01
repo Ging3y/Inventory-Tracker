@@ -9,3 +9,15 @@ C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Inventory\Invento
 C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Inventory\Inventory\obj\Debug\Inventory.MainPage.resources
 C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Inventory\Inventory\obj\Debug\Inventory.Sellers.resources
 C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Inventory\Inventory\obj\Debug\Inventory.Pages.Finance.resources
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.exe
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.pdb
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\bin\Debug\Inventory.exe
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\bin\Debug\Inventory.pdb
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.csprojResolveAssemblyReference.cache
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.Pages.Finance.resources
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.MainPage.resources
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.Sellers.resources
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.csproj.GenerateResource.Cache
+C:\Users\acerstudent4\Desktop\Repos\Personal\Inventory Tracker\Project\Inventory\obj\Debug\Inventory.Pages.Inventory.resources

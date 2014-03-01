@@ -16,5 +16,29 @@ namespace Inventory
         {
             InitializeComponent();
         }
+
+        private void Button_addseller_Click(object sender, EventArgs e)
+        {
+            #region Adding to combo Box
+            //if it isn't blank, add the name
+            if (ComboBox_sellers.Text != "")
+            {
+                ComboBox_sellers.Items.Add(ComboBox_sellers.Text);
+            }
+            else
+            {
+                MessageBox.Show("You have not entered a name. Please enter a name before " +
+                    "adding it to the list.", "Error");
+            }
+            #endregion
+
+        }
+
+        private void Button_deleteseller_Click(object sender, EventArgs e)
+        {
+            ComboBox_sellers.Items.Remove(ComboBox_sellers.SelectedItem);
+        }
+
+ 
     }
 }
